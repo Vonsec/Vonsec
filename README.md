@@ -1,15 +1,15 @@
-# Кот-программист Vonsec 🐱💻
+# Cat programmer Vonsec 🐱💻
 
-Vonsec - это не просто кот, а кот-программист! 
-Следите за его кодерскими приключениями, когда он создает пушистые алгоритмы и решает мягкие баги. 
-Он всегда находится в поиске самой лучшей клавиши "Esc" и мурлычет на JavaScript. Присоединяйтесь к его хакерскому кофейному брейку!
+Vonsec is not just a cat but a programmer cat! Follow his coding adventures as he creates fluffy algorithms and solves soft bugs. He's always on the hunt for the perfect "Esc" key and purrs in Python. Join his hacker coffee break!
 
-**Характеристики:**
-- Владеет языками программирования: Python и C++
-- Эксперт в создании мягких архитектурных решений
-- Обожает отлаживать код с помощью лапок
+**Features:**
+- Proficient in programming languages: Python and C++
+- An expert in creating soft code for tasks.
+- Loves debugging code with paws
 
-Следите за котом-программистом Vonsec, 
-чтобы узнать больше о его программных 
-проектах и котов-друзьях!
+Follow cat programmer Vonsec to learn more about his software projects and cat friends!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python_in_my_heart+🐍❤)](https://git.io/typing-svg)
+
+## Сontact information
+<h3>💻💼 Telegram:<a href="https://t.me/Cesnovedoc" target="_blank"> Vonsec</a> 
